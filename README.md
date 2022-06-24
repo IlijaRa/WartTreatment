@@ -1,1 +1,7 @@
-# WartTreatment
+# Zahtev zadatka
+U zavisnosti od odabrane baze, potrebno je rešavati problem klasifikacije, regresije ili klasterizacije. Pre svega, uraditi analizu baze što podrazumeva i rešavanje nedostajućih vrednosti i po potrebi prevođenje kategorija kategoričkih varijabli u numeričke vrednosti. Potom odabrati bar 3 algoritma i unakrsnom validacijom uporediti njihove performanse na odabranoj bazi. Pokušati i redukciju dimenzionalnosti nekom od metoda, pa ponoviti odabrane algoritme i uporediti performanse. Konačno, u izveštaju (do 4 str.) predstaviti najvažnije detalje iz analize podataka, kao i uporedne analize performansi modela, uz kratke teorijske opise korišćenih algoritama. Podrazumeva se da izveštaj treba da ima i uvod u problem, cilj istraživanja, kao i zaključke na samom kraju i preporučljivo je navesti korišćenu literaturu.
+
+# Opis baze podataka
+#### Terapija lečenja bradavica
+Baza sadrži 180 pacijenata. Na 90 je primenjena imunoterapija, a na preostalih 90 krioterapija. Za svakog pacijenta poznata je informacija o polu, starosti, vremenu trajanja bradavice, broju bradavica, vrsti bradavice, površini koju zauzimaju, kao i podatak da li je pacijent odreagovao na terapiju ili nije. Treba ispitati ima li neki od parametara (ili njihova kombinacija) uticaj na ishod terapije i može li se utvrditi prema datim parametrima koju terapiju je bolje primeniti i može li se 
+uopšte ishod terapije predvideti korišćenjem metoda mašinskog učenja.
